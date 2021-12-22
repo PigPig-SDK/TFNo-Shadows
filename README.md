@@ -5,5 +5,5 @@ Remove shadows from your TF2 server.
 
 ## Cvars:
 
-`tfns_disable_shadows<1/0>`
+`tfns_disable_shadows <1/0>`
         - Enable / disable shadows (Reads only on map load)
